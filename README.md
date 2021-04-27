@@ -1,2 +1,2 @@
 #this is my first readme
-Hello
+Hello my friend
